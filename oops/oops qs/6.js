@@ -1,0 +1,1 @@
+//Question: Create an abstract class Vehicle with an abstract method startEngine. Create two subclasses Car and Truck, each implementing the startEngine method.

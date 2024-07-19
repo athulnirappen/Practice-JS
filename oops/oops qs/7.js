@@ -1,0 +1,1 @@
+//Question: Implement a VehicleFactory class with a static method createVehicle that returns instances of Car or Truck based on the input type.

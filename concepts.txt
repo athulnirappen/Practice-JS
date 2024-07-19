@@ -1,0 +1,5 @@
+important concepts in js
+
+1.hoisting
+2.truthy falsy values
+3.type convesion and coercion
